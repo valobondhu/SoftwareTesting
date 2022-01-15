@@ -1,4 +1,6 @@
-import org.testng.Assert;
+package test;
+
+import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
@@ -22,5 +24,7 @@ public class SimpleGetTest {
 		System.out.println("statusline =>  " + statusLine);
 	}
 	//
+	//test
+	
 	//test
 }
